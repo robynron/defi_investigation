@@ -6,8 +6,8 @@
   * 项目: Dai
 * 去中心化交易所
   * 类型:
-    1. 基于流动性池:uniswap, 
-    2. 基于订单系统: loopring, idex
+    1. 基于流动性资金池:uniswap, 
+    2. 基于订单系统(已经被淘汰): loopring, idex
 * 去中心化货币市场
 * 去中心化借贷市场
   * 项目: maker dao, compound, dXdY;

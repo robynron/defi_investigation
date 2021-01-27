@@ -12,7 +12,7 @@
 >
 > 用户把资产USDC存入compound, 获得债券CUSDC, 这个债券带有一定收益率;
 
-​								  																  /-->Aaue
+​								  																  /-->Aave
 
 用户存入USDC --> yearn -- (选择利率高的项目存入稳定币)  --> compound
 
@@ -24,7 +24,7 @@
 
   用户的usd --> 兑换池 --> [Dai, USDT, USDC] (稳定代币) -->yearn合约 --> 择优DeFi项目 --> (如yUSDC)债券收益代币(收益为利息)--> iearn合约 -> 资产池 --> yCRV(在资产池中作为流动性资产, 获取交易手续费)
 
-  ![image-20210127043520879](img\image-20210127043520879.png)
+  [![szGRXt.png](https://s3.ax1x.com/2021/01/27/szGRXt.png)](https://imgchr.com/i/szGRXt)
 
   > tips:
   >
@@ -35,7 +35,7 @@
 
 把 yCRV --> YFI智能合约(作为staking) --> YFI & CRV(治理)
 
-<img src="img\image-20210127042718819.png" alt="image-20210127042718819" style="zoom:67%;" />
+[![szGpQI.png](https://s3.ax1x.com/2021/01/27/szGpQI.png)](https://imgchr.com/i/szGpQI)
 
 > yearn把收益, 通过智能合约的方式, 放入vault仓库中, 通过YFI作为凭证来提取vault中的收益(通常YFI与vault中的稳定代币数量一致), 一旦收益被提取, YFI即被销毁;
 
@@ -43,7 +43,7 @@ YFI还能够对yearn中的各个DeFi项目的费率进行修改, 需要投票修
 
 YFI内循环挖矿: 
 
-<img src="img/image-20210127043608138.png" alt="image-20210127043608138" style="zoom:70%;" />
+[![szGh0f.png](https://s3.ax1x.com/2021/01/27/szGh0f.png)](https://imgchr.com/i/szGh0f)
 
 >  tips:
 >
